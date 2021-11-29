@@ -1,0 +1,14 @@
+c:\users\alexandr\documents\visual studio 2012\Projects\OOAPLab4\OOAPLab4\bin\Debug\OOAPLab4.exe.config
+c:\users\alexandr\documents\visual studio 2012\Projects\OOAPLab4\OOAPLab4\obj\Debug\OOAPLab4.csprojResolveAssemblyReference.cache
+c:\users\alexandr\documents\visual studio 2012\Projects\OOAPLab4\OOAPLab4\bin\Debug\OOAPLab4.exe
+c:\users\alexandr\documents\visual studio 2012\Projects\OOAPLab4\OOAPLab4\bin\Debug\OOAPLab4.pdb
+c:\users\alexandr\documents\visual studio 2012\Projects\OOAPLab4\OOAPLab4\obj\Debug\OOAPLab4.exe
+c:\users\alexandr\documents\visual studio 2012\Projects\OOAPLab4\OOAPLab4\obj\Debug\OOAPLab4.pdb
+D:\Лаби\OOAPLab4\OOAPLab4\bin\Debug\OOAPLab4.exe.config
+D:\Лаби\OOAPLab4\OOAPLab4\bin\Debug\OOAPLab4.exe
+D:\Лаби\OOAPLab4\OOAPLab4\bin\Debug\OOAPLab4.pdb
+D:\Лаби\OOAPLab4\OOAPLab4\obj\Debug\OOAPLab4.csproj.AssemblyReference.cache
+D:\Лаби\OOAPLab4\OOAPLab4\obj\Debug\OOAPLab4.csproj.SuggestedBindingRedirects.cache
+D:\Лаби\OOAPLab4\OOAPLab4\obj\Debug\OOAPLab4.csproj.CoreCompileInputs.cache
+D:\Лаби\OOAPLab4\OOAPLab4\obj\Debug\OOAPLab4.exe
+D:\Лаби\OOAPLab4\OOAPLab4\obj\Debug\OOAPLab4.pdb
