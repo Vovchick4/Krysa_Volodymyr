@@ -18,6 +18,7 @@ namespace OOAPLab4
         {
             void MakeCall();
         }
+	//Add comment
         class VideoCamera
         {
             public void UseVideo()
